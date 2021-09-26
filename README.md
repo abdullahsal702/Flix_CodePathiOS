@@ -39,5 +39,5 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/JK15BtUhjW.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: 
 The collection view wasn't being formatted properly until I changed the 'estimate size' property to 'none'. 
